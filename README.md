@@ -1,6 +1,6 @@
-🎬 MovieVerse — Modern Movie Search App
+🎬 KinoQidir — Modern Movie Search App
 
-MovieVerse — bu React yordamida yaratilgan zamonaviy kino qidiruv web ilovasi. Foydalanuvchilar istalgan kinoni qidirishi, film haqida ma’lumot olishi va reytinglarini ko‘rishi mumkin. Ilova API bilan ulangan bo‘lib, ma’lumotlar real vaqt rejimida olinadi.
+KinoQidir — bu React yordamida yaratilgan zamonaviy kino qidiruv web ilovasi. Foydalanuvchilar istalgan kinoni qidirishi, film haqida ma’lumot olishi va reytinglarini ko‘rishi mumkin. Ilova API bilan ulangan bo‘lib, ma’lumotlar real vaqt rejimida olinadi.
 
 ✨ Features
 🔍 Movie Search
