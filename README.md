@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎬 MovieVerse — Modern Movie Search App
 
-# Run and deploy your AI Studio app
+MovieVerse — bu React yordamida yaratilgan zamonaviy kino qidiruv web ilovasi. Foydalanuvchilar istalgan kinoni qidirishi, film haqida ma’lumot olishi va reytinglarini ko‘rishi mumkin. Ilova API bilan ulangan bo‘lib, ma’lumotlar real vaqt rejimida olinadi.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ab48853b-d67a-44a2-86ef-ccecd85f15b9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✨ Features
+🔍 Movie Search
+Istalgan kino nomini yozib tezkor qidirish mumkin.
+🎞 Movie Details
+Kino haqida batafsil ma’lumot:
+Poster
+Reyting
+Janr
+Chiqqan yili
+Qisqacha tavsif
+⚡ Real-time API Integration
+Barcha ma’lumotlar API orqali olinadi.
+🎨 Modern UI Design
+Minimalistik va foydalanuvchiga qulay interfeys.
+📱 Responsive Design
+Telefon va kompyuterda yaxshi ishlaydi.
+🛠 Tech Stack
+Frontend: React, Vite
+Styling: CSS / Tailwind CSS
+API: Movie Database API
+Icons: Lucide React
+🚀 Getting Started
+1. Install dependencies
+npm install
+2. Run development server
+npm run dev
+3. Open in browser
+http://localhost:5173
